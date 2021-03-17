@@ -1,0 +1,7 @@
+Plovdiv
+Plovdiv Burgas 250
+Plovdiv Varna 350
+Plovdiv Silistra 400
+Burgas Sofia 450
+Burgas Varna 100
+Sofia Varna 500

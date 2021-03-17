@@ -1,0 +1,13 @@
+newDino ivan male jura flying rex meat
+newDino rado male jura aquatic rex fish
+newDino petkanka female jura aquatic rex fish
+newDino sashka female jura aquatic rex meat
+newDino petar male creda herbivorous rex grass
+newDino sasho male trias carnivorous rex meat
+newDino stoqn male trias carnivorous rex meat
+newDino dani male trias carnivorous rex meat
+newDino veroni male trias carnivorous rex meat
+newDino mitko male creda herbivorous rex grass
+newDino georgi male trias carnivorous rex meat
+newDino gosho male trias herbivorous rex meat
+newDino lusi male trias carnivorous rex meat

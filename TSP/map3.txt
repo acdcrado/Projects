@@ -1,0 +1,16 @@
+Silistra
+Silistra Varna 142
+Silistra Sofia 429
+Silistra Plovdiv 300
+Silistra Gabrovo 268
+Silistra Burgas 182
+Varna Sofia 440
+Varna Plovdiv 285
+Varna Gabrovo 215
+Varna Burgas 115
+Sofia Plovdiv 133
+Sofia Gabrovo 205
+Sofia Burgas 340
+Plovdiv Gabrovo 136
+Plovdiv Burgas 252
+Gabrovo Burgas 247

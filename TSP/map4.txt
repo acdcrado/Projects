@@ -1,0 +1,22 @@
+Sofia
+Smolian Sofia 235
+Smolian StaraZagora 191
+Smolian Targovishte 381
+Smolian Haskovo 133
+Smolian Shumen 405
+Smolian Jambol 277
+Sofia StaraZagora 231
+Sofia Targovishte 319
+Sofia Haskovo 225
+Sofia Shumen 362
+Sofia Jambol 317
+StaraZagora Targovishte 192
+StaraZagora Haskovo 60
+StaraZagora Shumen 216
+StaraZagora Jambol 88
+Targovishte Haskovo 250
+Targovishte Shumen 41
+Targovishte Jambol 121
+Haskovo Shumen 274
+Haskovo Jambol 146
+Shumen Jambol 145

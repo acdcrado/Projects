@@ -1,0 +1,254 @@
+// in the begining theatre.txt will be an empty/not existing file
+
+// the program starts
+
+input: open theatre.txt
+output: There aren't any auditoriums to be loaded. Please enter some using the command load
+
+input: load auditoriums.txt
+input: load events.txt
+
+output:
+Auditorium: 1
+Rows: 4
+Seats on each row: 10
+
+Name of event: captainamerica
+Date of event: 2020-06-03
+Tickets:
+
+
+Auditorium: 2
+Rows: 2
+Seats on each row: 2
+
+Name of event: deadpool
+Date of event: 2020-06-02
+Tickets:
+
+
+Auditorium: 3
+Rows: 10
+Seats on each row: 2
+
+Name of event: robin
+Date of event: 2020-05-29
+Tickets:
+
+
+Name of event: batman
+Date of event: 2020-05-30
+Tickets:
+
+
+Name of event: jokera
+Date of event: 2020-06-01
+Tickets:
+
+
+Auditorium: 4
+Rows: 3
+Seats on each row: 3
+
+Auditorium: 5
+Rows: 8
+Seats on each row: 8
+
+input: save_as theatre.txt
+output: You have successfully saved new file containing the information about the theatre named theatre.txt.
+
+input: exit
+
+//program closes
+//program starts
+
+input: open theatre.txt
+input: print
+output:
+Auditorium: 1
+Rows: 4
+Seats on each row: 10
+
+Name of event: captainamerica
+Date of event: 2020-06-03
+Tickets:
+
+
+Auditorium: 2
+Rows: 2
+Seats on each row: 2
+
+Name of event: deadpool
+Date of event: 2020-06-02
+Tickets:
+
+
+Auditorium: 3
+Rows: 10
+Seats on each row: 2
+
+Name of event: robin
+Date of event: 2020-05-29
+Tickets:
+
+
+Name of event: batman
+Date of event: 2020-05-30
+Tickets:
+
+
+Name of event: jokera
+Date of event: 2020-06-01
+Tickets:
+
+
+Auditorium: 4
+Rows: 3
+Seats on each row: 3
+
+Auditorium: 5
+Rows: 8
+Seats on each row: 8
+
+input: book 1 1 2020-05-29 robin
+input: book 2 1 2020-05-29 robin
+input: book 3 1 2020-05-29 robin
+input: unbook 2 1 2020-05-29 robin
+output: You've successfully unbooked the ticket.
+
+input: print
+output:
+
+Auditorium: 1
+Rows: 4
+Seats on each row: 10
+
+Name of event: captainamerica
+Date of event: 2020-06-03
+Tickets:
+
+
+Auditorium: 2
+Rows: 2
+Seats on each row: 2
+
+Name of event: deadpool
+Date of event: 2020-06-02
+Tickets:
+
+
+Auditorium: 3
+Rows: 10
+Seats on each row: 2
+
+Name of event: robin
+Date of event: 2020-05-29
+Tickets:
+Code: 1000r1s1 Type: booked Row: 1 Seat: 1
+Code: 1002r3s1 Type: booked Row: 3 Seat: 1
+
+
+Name of event: batman
+Date of event: 2020-05-30
+Tickets:
+
+
+Name of event: jokera
+Date of event: 2020-06-01
+Tickets:
+
+
+Auditorium: 4
+Rows: 3
+Seats on each row: 3
+
+Auditorium: 5
+Rows: 8
+Seats on each row: 8
+
+input: save_as new_theatre.txt
+output: You have successfully saved new file containing the information about the theatre named new_theatre.txt.
+
+input: exit
+
+//program closes
+//program starts
+
+input: open new_theatre.txt
+input: print
+output:
+Auditorium: 1
+Rows: 4
+Seats on each row: 10
+
+Name of event: captainamerica
+Date of event: 2020-06-03
+Tickets:
+
+
+Auditorium: 2
+Rows: 2
+Seats on each row: 2
+
+Name of event: deadpool
+Date of event: 2020-06-02
+Tickets:
+
+
+Auditorium: 3
+Rows: 10
+Seats on each row: 2
+
+Name of event: robin
+Date of event: 2020-05-29
+Tickets:
+Code: 1000r1s1 Type: booked Row: 1 Seat: 1
+Code: 1002r3s1 Type: booked Row: 3 Seat: 1
+
+
+Name of event: batman
+Date of event: 2020-05-30
+Tickets:
+
+
+Name of event: jokera
+Date of event: 2020-06-01
+Tickets:
+
+
+Auditorium: 4
+Rows: 3
+Seats on each row: 3
+
+Auditorium: 5
+Rows: 8
+Seats on each row: 8
+
+input: close
+input: print
+output: 
+Auditorium: 1
+Rows: 4
+Seats on each row: 10
+
+Auditorium: 2
+Rows: 2
+Seats on each row: 2
+
+Auditorium: 3
+Rows: 10
+Seats on each row: 2
+
+Auditorium: 4
+Rows: 3
+Seats on each row: 3
+
+Auditorium: 5
+Rows: 8
+Seats on each row: 8
+
+// As we can see, there are only the auditoriums left :)
+
+input: exit
+
+//program closes
